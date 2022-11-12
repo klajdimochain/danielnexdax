@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Wrapped BNB from MO",
+        "address": "0x487E0B3299360E067FB2f44747Be9f4D307488F0",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "chainId": 7924,
+        "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
+    }
+]
