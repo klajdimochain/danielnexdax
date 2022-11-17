@@ -1,7 +1,7 @@
 [
     {
         "name": "Wrapped BNB from MO",
-        "address": "0x487E0B3299360E067FB2f44747Be9f4D307488F0",
+        "address": "0xEd0C633B1488B7dB0B4eD61C377FA8c7A32Fe6Aa",
         "symbol": "WBNB",
         "decimals": 18,
         "chainId": 7924,
