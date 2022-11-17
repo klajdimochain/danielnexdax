@@ -1,8 +1,8 @@
 [
     {
-        "name": "Wrapped BNB from MO",
-        "address": "0xEd0C633B1488B7dB0B4eD61C377FA8c7A32Fe6Aa",
-        "symbol": "WBNB",
+        "name": "Wrapped MO",
+        "address": "0x7583eB9A952523957946Abbd3140E89e8B5aC7A3",
+        "symbol": "WMO",
         "decimals": 18,
         "chainId": 7924,
         "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
