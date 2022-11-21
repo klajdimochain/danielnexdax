@@ -1,4 +1,18 @@
-[
+{
+  "name": "MOscan Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/05e3465a9b5c1fc670399f272a07bb62.png",
+  "keywords": [
+    "mo",
+    "bsc"
+  ],
+  "tokens": [
     {
         "name": "Wrapped MO",
         "address": "0x7583eB9A952523957946Abbd3140E89e8B5aC7A3",
@@ -6,16 +20,6 @@
         "decimals": 18,
         "chainId": 7924,
         "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/05e3465a9b5c1fc670399f272a07bb62.png"
-    },
-    {
-            "chainId": 56,
-            "asset": "c20000714_t0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
-            "type": "BEP20",
-            "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
-            "name": "Jupiter",
-            "symbol": "bwJUP",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png",
-            "pairs": []
-        }
-]
+    }
+  ]
+}
