@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/05e3465a9b5c1fc670399f272a07bb62.png",
+  "logoURI": "https://raw.githubusercontent.com/klajdimochain/danielnexdax/main/05e3465a9b5c1fc670399f272a07bb62.png",
   "keywords": [
     "mo",
     "bsc"
@@ -19,7 +19,7 @@
         "symbol": "WMO",
         "decimals": 18,
         "chainId": 7924,
-        "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/05e3465a9b5c1fc670399f272a07bb62.png"
+        "logoURI": "https://raw.githubusercontent.com/klajdimochain/danielnexdax/main/05e3465a9b5c1fc670399f272a07bb62.png"
     }
   ]
 }
