@@ -6,5 +6,16 @@
         "decimals": 18,
         "chainId": 7924,
         "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/05e3465a9b5c1fc670399f272a07bb62.png"
-    }
+    },
+    {
+            "chainId": 56,
+            "asset": "c20000714_t0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+            "type": "BEP20",
+            "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+            "name": "Jupiter",
+            "symbol": "bwJUP",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7/logo.png",
+            "pairs": []
+        }
 ]
